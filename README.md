@@ -23,4 +23,4 @@ The data from the Tkinter GUI is written to the excel sheet and the data in the 
 
 **Output:**
 
-![](code.jpg)
+![](PriceLabel.jpg)
