@@ -24,4 +24,4 @@ The data from the Tkinter GUI is written to the sqlite database and the same dat
 
 **Output:**
 
-![](PriceLabel.png)
+![](PriceLabel.jpg)
