@@ -4,7 +4,7 @@ Price Tag Label are generated for commercial use using the Tkinter GUI. It is de
 
 **Application:**
 
-![](tempsnip.png)
+![](tempsnip.jpg)
 
 The data from the Tkinter GUI is written to the excel sheet and the data in the excel will be merged to the word document using the mail merge.
 
